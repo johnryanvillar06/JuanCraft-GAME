@@ -1,0 +1,2400 @@
+fileFormatVersion: 2
+guid: c94c2d9c027014047bd7e96eb8e9b4f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5536113824849611578
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_0
+  - first:
+      213: -193849290090817285
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_1
+  - first:
+      213: 1661208435742939750
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_2
+  - first:
+      213: -3912368253636499002
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_3
+  - first:
+      213: -4591460921566426319
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_4
+  - first:
+      213: -2932803322276920236
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_5
+  - first:
+      213: 8248055494762223066
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_6
+  - first:
+      213: 1856962947212704917
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_7
+  - first:
+      213: -5014435753982126085
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_8
+  - first:
+      213: -7077632697841975666
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_9
+  - first:
+      213: -1076667772070054304
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_10
+  - first:
+      213: -1361314114037293496
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_11
+  - first:
+      213: -1304225404934348470
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_12
+  - first:
+      213: -8459296040065001457
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_13
+  - first:
+      213: 960039228398334147
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_14
+  - first:
+      213: 8257391401790847006
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_15
+  - first:
+      213: -3953965616237214569
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_16
+  - first:
+      213: -2212964018098206931
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_17
+  - first:
+      213: -2268628334140476230
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_18
+  - first:
+      213: 3870305392778568309
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_19
+  - first:
+      213: -7003379650911819371
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_20
+  - first:
+      213: 7784870797633285027
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_21
+  - first:
+      213: -6308190219240335915
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_22
+  - first:
+      213: 95226641534570410
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_23
+  - first:
+      213: 5919997419371836990
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_24
+  - first:
+      213: 4513780393679917249
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_25
+  - first:
+      213: -2891981601276712536
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_26
+  - first:
+      213: -2399665876980404207
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_27
+  - first:
+      213: -45793766427226157
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_28
+  - first:
+      213: -5063580637609214679
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_29
+  - first:
+      213: 3390359617067529229
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_30
+  - first:
+      213: -765679709005127934
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_31
+  - first:
+      213: 3562301599111262585
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_32
+  - first:
+      213: -4788842404976519079
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_33
+  - first:
+      213: 4072003052222082581
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_34
+  - first:
+      213: 1976112081824072550
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_35
+  - first:
+      213: 8735495600184378474
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_36
+  - first:
+      213: 5670785266497452820
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_37
+  - first:
+      213: -766214945247374576
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_38
+  - first:
+      213: 8481711912719331123
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_39
+  - first:
+      213: -2630370507411118362
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_40
+  - first:
+      213: -1908181255130248179
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_41
+  - first:
+      213: -5880215586038010831
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_42
+  - first:
+      213: -5464325459235230873
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_43
+  - first:
+      213: -5154656066199095043
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_44
+  - first:
+      213: 5850622479358415460
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_45
+  - first:
+      213: -6027637684140786543
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_46
+  - first:
+      213: -1836273156982861359
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_47
+  - first:
+      213: 3451662422822871517
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_48
+  - first:
+      213: 2182152508319619576
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_49
+  - first:
+      213: 71121203956409849
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_50
+  - first:
+      213: -2910179476675092488
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_51
+  - first:
+      213: -3335195649910348493
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_52
+  - first:
+      213: -178326801725294431
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_53
+  - first:
+      213: -3355566249535123558
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_54
+  - first:
+      213: 1978021837334941335
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_55
+  - first:
+      213: 4172863929209031510
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_56
+  - first:
+      213: -2315802063360062065
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_57
+  - first:
+      213: -8591328335602721345
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_58
+  - first:
+      213: 2130100842460952695
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_59
+  - first:
+      213: 8334134186422066265
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_60
+  - first:
+      213: -3029941370098292829
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_61
+  - first:
+      213: 3471972294550041228
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_62
+  - first:
+      213: -7727860175002404329
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_63
+  - first:
+      213: -5974016126082613389
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_64
+  - first:
+      213: 428483019468712518
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_65
+  - first:
+      213: 9151371474302030057
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_66
+  - first:
+      213: 7400007375481056221
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_67
+  - first:
+      213: -5158524805996649245
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_68
+  - first:
+      213: 6082869672000384830
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_69
+  - first:
+      213: 328213896827224476
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_70
+  - first:
+      213: -5680088729084585648
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_71
+  - first:
+      213: 6859143788888606944
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_72
+  - first:
+      213: 5681850477931372428
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_73
+  - first:
+      213: 3737641721987003383
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_74
+  - first:
+      213: 5583229481458598381
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_75
+  - first:
+      213: 8647471464833172465
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_76
+  - first:
+      213: -6544241966352407650
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_77
+  - first:
+      213: -7312519788230632287
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_78
+  - first:
+      213: 8544990456262850109
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_79
+  - first:
+      213: -414007419419115059
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_80
+  - first:
+      213: 6591192346546069440
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_81
+  - first:
+      213: -5100045727625535845
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_82
+  - first:
+      213: 7116418774996722793
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_83
+  - first:
+      213: 8724164345938566111
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_84
+  - first:
+      213: -3014509166187835484
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_85
+  - first:
+      213: 1984715486953572697
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_86
+  - first:
+      213: 5392212024730102257
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_87
+  - first:
+      213: -5181303093834857504
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_88
+  - first:
+      213: -3919995633980691904
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_89
+  - first:
+      213: -2148147789127530587
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_90
+  - first:
+      213: -3346828994445223963
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_91
+  - first:
+      213: -2061490857875318746
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_92
+  - first:
+      213: 6091676199084548983
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_93
+  - first:
+      213: 8488220248169805929
+    second: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 259
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b4a4e213a34dc40800000000000000
+      internalID: 5536113824849611578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 256
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8dc24091f4f4df0800000000000000
+      internalID: -193849290090817285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 257
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a1756554ccd0710800000000000000
+      internalID: 1661208435742939750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 257
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c92b7b4dc974b9c0800000000000000
+      internalID: -3912368253636499002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 258
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b02f15e9ad740c0800000000000000
+      internalID: -4591460921566426319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544993cae69c47d0800000000000000
+      internalID: -2932803322276920236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 261
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d20db5caf67270800000000000000
+      internalID: 8248055494762223066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 261
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cfcad36f145c910800000000000000
+      internalID: 1856962947212704917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 256
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf790e6df35296ab0800000000000000
+      internalID: -5014435753982126085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e707a6f8237cd90800000000000000
+      internalID: -7077632697841975666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 259
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06637a0ad58ee01f0800000000000000
+      internalID: -1076667772070054304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 259
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed41d9604ab1de0800000000000000
+      internalID: -1361314114037293496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4129df77e576ede0800000000000000
+      internalID: -1304225404934348470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089e02221b8a9a80800000000000000
+      internalID: -8459296040065001457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 225
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07f1b779eb25d00800000000000000
+      internalID: 960039228398334147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 225
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18bb1bfab5289270800000000000000
+      internalID: 8257391401790847006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79482169831b029c0800000000000000
+      internalID: -3953965616237214569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27098843f8f941e0800000000000000
+      internalID: -2212964018098206931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 229
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4bb20cc863480e0800000000000000
+      internalID: -2268628334140476230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 229
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57268dcbf3616b530800000000000000
+      internalID: 3870305392778568309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a330205ffece90800000000000000
+      internalID: -7003379650911819371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 226
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6e339eba690c60800000000000000
+      internalID: 7784870797633285027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 226
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d51696fa6ec478a0800000000000000
+      internalID: -6308190219240335915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf42dd3020525100800000000000000
+      internalID: 95226641534570410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3633e4994e082250800000000000000
+      internalID: 5919997419371836990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c01a6f5a5b24ae30800000000000000
+      internalID: 4513780393679917249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9afe65e0e9dd7d0800000000000000
+      internalID: -2891981601276712536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 194
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110f4fe499ca2bed0800000000000000
+      internalID: -2399665876980404207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df8d23efce4d5ff0800000000000000
+      internalID: -45793766427226157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 194
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92db1c3fc3c8ab9b0800000000000000
+      internalID: -5063580637609214679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b32cdb1afc0f20800000000000000
+      internalID: 3390359617067529229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f56058c52cf55f0800000000000000
+      internalID: -765679709005127934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 192
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97135d53e66df6130800000000000000
+      internalID: 3562301599111262585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581c0e743d9a8db0800000000000000
+      internalID: -4788842404976519079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 192
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee00c9339a28830800000000000000
+      internalID: 4072003052222082581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6634b71f77f8c6b10800000000000000
+      internalID: 1976112081824072550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 165
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644af937f6ba3970800000000000000
+      internalID: 8735495600184378474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 163
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b791f972da2be40800000000000000
+      internalID: 5670785266497452820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135fee119bdd55f0800000000000000
+      internalID: -766214945247374576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fa5dceb0815b570800000000000000
+      internalID: 8481711912719331123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 162
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6a816b5fb0f7bd0800000000000000
+      internalID: -2630370507411118362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 162
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c07e82247c485e0800000000000000
+      internalID: -1908181255130248179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2d774417456ea0800000000000000
+      internalID: -5880215586038010831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 160
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b292132f0da24b0800000000000000
+      internalID: -5464325459235230873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 160
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f3ea4e9bf678b0800000000000000
+      internalID: -5154656066199095043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 160
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d215a526913150800000000000000
+      internalID: 5850622479358415460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 160
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cb70a4677895ca0800000000000000
+      internalID: -6027637684140786543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 131
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1937fea4f3486e0800000000000000
+      internalID: -1836273156982861359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 131
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ebe49fa4c6ef20800000000000000
+      internalID: 3451662422822871517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f95e101520984e10800000000000000
+      internalID: 2182152508319619576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 99
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e1d1bb5cacf000800000000000000
+      internalID: 71121203956409849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff162c4f27fc97d0800000000000000
+      internalID: -2910179476675092488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 107
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3356aae1a3107b1d0800000000000000
+      internalID: -3335195649910348493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 106
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a87b39f7b4768df0800000000000000
+      internalID: -178326801725294431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 99
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f4b2c4642ae61d0800000000000000
+      internalID: -3355566249535123558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 102
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e805c8168537b10800000000000000
+      internalID: 1978021837334941335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 102
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8b8482adf8e930800000000000000
+      internalID: 4172863929209031510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 103
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d8e430b4e9cdfd0800000000000000
+      internalID: -2315802063360062065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 102
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd6a7c56875c880800000000000000
+      internalID: -8591328335602721345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 107
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77835a23e63af8d10800000000000000
+      internalID: 2130100842460952695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 100
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c502ce2eac8a370800000000000000
+      internalID: 8334134186422066265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 74
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e701906c73f5d0800000000000000
+      internalID: -3029941370098292829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 72
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8237a6186cee2030800000000000000
+      internalID: 3471972294550041228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 74
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af7136d1021c490800000000000000
+      internalID: -7727860175002404329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 73
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff36a2cf7081da0800000000000000
+      internalID: -5974016126082613389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 72
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a28b7390742f500800000000000000
+      internalID: 428483019468712518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e05a6daed3300f70800000000000000
+      internalID: 9151371474302030057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 69
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba1d6408b12b660800000000000000
+      internalID: 7400007375481056221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4678d150d3968b0800000000000000
+      internalID: -5158524805996649245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f649efcb1ba6450800000000000000
+      internalID: 6082869672000384830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91cbbadccc0e8400800000000000000
+      internalID: 328213896827224476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059963235654c21b0800000000000000
+      internalID: -5680088729084585648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e848084fe2903f50800000000000000
+      internalID: 6859143788888606944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_73
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9bfbe7ecf9de40800000000000000
+      internalID: 5681850477931372428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 39
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f6b0e755ced330800000000000000
+      internalID: 3737641721987003383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de104d5d1ad9b7d40800000000000000
+      internalID: 5583229481458598381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 42
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f345b22b7df10870800000000000000
+      internalID: 8647471464833172465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_77
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 38
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936c5fba9e2e25a0800000000000000
+      internalID: -6544241966352407650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_78
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 40
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9f79fef5b48a90800000000000000
+      internalID: -7312519788230632287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_79
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 41
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3676a2fb87e59670800000000000000
+      internalID: 8544990456262850109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_80
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 40
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1c52f0276214af0800000000000000
+      internalID: -414007419419115059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_81
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 41
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd62e748e987b50800000000000000
+      internalID: 6591192346546069440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_82
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 40
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e91a29e6ff839b0800000000000000
+      internalID: -5100045727625535845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964a994eb2992c260800000000000000
+      internalID: 7116418774996722793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 7
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbdbc10045721970800000000000000
+      internalID: 8724164345938566111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 10
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af073982ef4a26d0800000000000000
+      internalID: -3014509166187835484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959851c48302b8b10800000000000000
+      internalID: 1984715486953572697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_87
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 13
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a0af644cf4da40800000000000000
+      internalID: 5392212024730102257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_88
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 12
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34752b9405818b0800000000000000
+      internalID: -5181303093834857504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 10
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aaf7b6db06999c0800000000000000
+      internalID: -3919995633980691904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 10
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7430897fe3032e0800000000000000
+      internalID: -2148147789127530587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_91
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 8
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e75d1603ccad81d0800000000000000
+      internalID: -3346828994445223963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_92
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62850acacfc1463e0800000000000000
+      internalID: -2061490857875318746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_93
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 11
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773e22d5a3bf98450800000000000000
+      internalID: 6091676199084548983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___flowers_and_pots_by_ayene_chan_d7kq66n_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968707bd7573cc570800000000000000
+      internalID: 8488220248169805929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

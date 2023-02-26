@@ -1,0 +1,23 @@
+{
+  "ultimate_box": {
+    "name": "Ultimate Box",
+    "description": "Awesome",
+    "price": 1,
+    "sprite": "",
+    "combination": [ "simple_box", "simple_box" ]
+  },
+  "simple_box": {
+    "name": "Simple Box",
+    "description": "Awesome",
+    "price": 1,
+    "sprite": "",
+    "combination": []
+  },
+  "tadano_boxu": {
+    "name": "Tadano Boxu",
+    "description": "Awesome",
+    "price": 13,
+    "sprite": "",
+    "combination": []
+  }
+}
